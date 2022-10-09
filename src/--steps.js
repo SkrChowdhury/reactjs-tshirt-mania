@@ -18,3 +18,17 @@ Basic Router Setup:
 8. set links on the header components
 
 */
+
+
+/* 
+Context API
+
+1. Declare a context
+
+const variableName = createContext('default value);
+
+2. Set Provider
+
+
+
+*/
