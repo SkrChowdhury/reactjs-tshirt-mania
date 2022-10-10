@@ -27,7 +27,9 @@ Context API
 
 const variableName = createContext('default value);
 
-2. Set Provider
+2. Set Provider with value
+
+3. useCOntext in the place where you want to get the context
 
 
 
